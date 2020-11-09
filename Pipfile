@@ -9,6 +9,7 @@ verify_ssl = true
 fastai = "*"
 voila = "*"
 ipywidgets = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.7"

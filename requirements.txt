@@ -1,0 +1,5 @@
+fastai==2.1.5
+ipywidgets==7.5.1
+packaging==20.4
+Pillow==8.0.1
+voila==0.2.4
